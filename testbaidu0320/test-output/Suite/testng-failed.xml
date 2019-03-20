@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="selenium(failed)">
+    <groups>
+      <run>
+        <include name="test1"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="day4.bank1">
+        <methods>
+          <include name="openfire"/>
+          <include name="Cdayin"/>
+          <include name="Alogin"/>
+        </methods>
+      </class> <!-- day4.bank1 -->
+    </classes>
+  </test> <!-- selenium(failed) -->
+</suite> <!-- Failed suite [Suite] -->

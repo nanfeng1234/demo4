@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10651" started-at="2019-03-20T00:57:22Z" finished-at="2019-03-20T00:57:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10651" started-at="2019-03-20T00:57:22Z" finished-at="2019-03-20T00:57:33Z">
+      <class name="day01.testBaidu">
+        <test-method status="PASS" signature="openfire()[pri:0, instance:day01.testBaidu@1c2c22f3]" name="openfire" is-config="true" duration-ms="3394" started-at="2019-03-20T08:57:22Z" finished-at="2019-03-20T08:57:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openfire -->
+        <test-method status="PASS" signature="openfirefox()[pri:0, instance:day01.testBaidu@1c2c22f3]" name="openfirefox" duration-ms="7238" started-at="2019-03-20T08:57:25Z" finished-at="2019-03-20T08:57:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openfirefox -->
+      </class> <!-- day01.testBaidu -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
